@@ -25,4 +25,15 @@ A modern, responsive News Portal built with **Next.js** (App Router), **Tailwind
 - **Other Tools**: Heroicons, React Hot Toast, Framer Motion
 
 ## 🏗️ Project Structure
+/frontend # Next.js frontend (App Router)
+└── src/
+└── components/
+└── app/
+└── styles/
+└── utils/
+└── pages/
 
+/backend # PHP API with PDO
+└── config/
+└── endpoints/
+└── uploads/
